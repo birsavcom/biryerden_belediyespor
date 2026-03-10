@@ -31,12 +31,12 @@
    19. Footer Styles
    20. Mobile Navigation Styles
    21. Affiliate Percentage Styles
-   22. Promotion Styles
+   22. Branşlarımız Styles
    23. Match Details Styles
    24. Authority Section Styles
    25. Newsletter Styles
-   26. Blog Styles
-   27. Blog Details Styles
+   26. Duyurular Styles
+   27. Duyurular Details Styles
    28. FAQ Section Styles
    29. Contact Styles
    30. Sign-In Styles
@@ -2451,7 +2451,8 @@ ul {
   left: 50%;
   transform: translateX(-50%);
   top: -50px;
-  background: linear-gradient(135.89deg, #D03355 -5.11%, #FB7A6B 97.89%);
+  /* background: linear-gradient(135.89deg, #D03355 -5.11%, #FB7A6B 97.89%); */
+  background: #E30016;
   box-shadow: 0px 19px 116px rgba(40, 40, 40, 0.61);
   border-radius: 0px 0px 100px 100px;
   display: flex;
