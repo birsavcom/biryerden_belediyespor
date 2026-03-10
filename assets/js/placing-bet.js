@@ -20,7 +20,7 @@
         var modalOpenFromPage = true;
 
         // ------------------------------------------------------
-        // step #02 : popup modal
+        // step #2 : popup modal
         // ------------------------------------------------------
 
         // append BS5 modal to body
@@ -142,7 +142,7 @@
         });
 
         // ------------------------------------------------------
-        // step #01 : playing-bet section initialization
+        // step #1 : playing-bet section initialization
         // ------------------------------------------------------
 
         // by default all 'placed' class removed
@@ -230,7 +230,7 @@
         });
 
         // ------------------------------------------------------
-        // step #03 : bet slip integration
+        // step #3 : bet slip integration
         // ------------------------------------------------------
 
         
